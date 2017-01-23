@@ -3,10 +3,10 @@
 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
 ## 编译
---1、gem install jekyll bundler
---2、cd myblog
---3、bundler install
---4、bundler exec jekyll serve
+1. gem install jekyll bundler
+2. cd mybloge
+3. bundler install(修改 [Gemfile] 地址)
+4. bundler exec jekyll serve
 
 ## Licence
 
