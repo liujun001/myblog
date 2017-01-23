@@ -1,41 +1,41 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: 枫叶含山
+subtitle: 遇见更好的自己
+welcome_message: 这是我用来记录生活和技术的地方，欢迎你的访问.
+description: 嗨，我是小白，从事Linux以及iOS相关的工作，目前暂居深圳.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
-# Format
+# 格式
 highlighter: plain
 
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+# 支持颜色: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: red
 
-# The blog button should not be removed.
+# 博客按钮.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
-# Navigation buttons in the front page.
+# 首页中的导航按钮。
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 项目, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
-# Pagination
+# 分页
 gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
-# Comment
+# 评论
 comment:
     disqus: vno-jekyll
-    # duoshuo: 
-    
-# Social
+    # duoshuo:
+
+# 社区
 social:
     weibo: onevcat
     github: onevcat
@@ -43,7 +43,7 @@ social:
     gplus: 107108267983477358170
     mail: onev@onevcat.com
 
-# Google Analytics
+# 谷歌分析
 ga:
     # id: your_ga_id
     # host: your_host
